@@ -3,7 +3,7 @@
 
 # Install dependencies for Colab (run this cell first in Colab)
 # This part is not needed in the .py file as you've already installed in the notebook.
-!pip install alpha_vantage pandas numpy scikit-learn statsmodels python-dotenv streamlit matplotlib
+#!pip install alpha_vantage pandas numpy scikit-learn statsmodels python-dotenv streamlit matplotlib
 
 # Import dependencies
 import matplotlib.pyplot as plt
