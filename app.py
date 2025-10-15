@@ -362,7 +362,7 @@ class InvestmentAdvisor:
         if not isinstance(budget_manager, BudgetManager):
             raise ValueError("BudgetManager must be an instance of BudgetManager class.")
         self._budget_manager = budget_manager
-        self._api_key = os.getenv('ALPHA_VANTAGE_API_KEY', 'AR211YAAO9ZZJY7W')
+        self._api_key = os.getenv('ALPHA_VANTAGE_API_KEY', 'TNCT1LHKBZC5JF6W')
         self._ts = TimeSeries(key=self._api_key, output_format='pandas')
         self._predictor = InvestmentPredictor()
         self._historical_data = None
