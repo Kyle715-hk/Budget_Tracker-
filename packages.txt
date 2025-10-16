@@ -1,0 +1,6 @@
+build-essential
+libblas-dev
+liblapack-dev
+gfortran
+cython3
+python3-dev
