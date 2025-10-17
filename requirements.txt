@@ -2,7 +2,7 @@ alpha_vantage==2.3.1
 pandas==2.2.3
 numpy==1.26.4
 scikit-learn==1.5.2
-statsmodels==0.14.4  # Updated from 0.14.0
+statsmodels==0.14.2  # Updated from 0.14.0
 python-dotenv==1.0.0
 streamlit==1.38.0
 matplotlib==3.9.2
