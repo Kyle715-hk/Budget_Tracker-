@@ -22,7 +22,7 @@ import io  # For pie chart in Streamlit
 
 # Set environment variable for API key (replace with your key or use Colab Secrets)
 # Replace os.getenv with st.secrets
-api_key = st.secrets["ALPHA_VANTAGE_API_KEY"]
+api_key = st.secrets.get("ALPHA_VANTAGE_API_KEY", os.getenv("ALPHA_VANTAGE_API_KEY", "default_key"))
 os.environ['ALPHA_VANTAGE_API_KEY'] = api_key
 
 # User class - Encapsulated financial details with clear methods for operations
