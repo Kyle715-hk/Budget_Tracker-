@@ -1,6 +1,6 @@
 Budget Tracker - Streamlit Dashboard & GUI Version
 
-Welcome to the Budget Tracker, a robust financial management tool designed to showcase my skills as a candidate for the Rev-celerator Graduate Programme 2026: Data Scientist and Analyst at Revolut. This Streamlit-based GUI version leverages Python, machine learning, and real-time data to provide an interactive experience for tracking finances, analyzing spending, and suggesting investments.
+Welcome to the Budget Tracker, a robust financial management tool designed to showcase my skills as a candidate for the Rev-celerator Graduate Programme 2026: Data Scientist and Analyst at Revolut. This Streamlit-based GUI version leverages Python, machine learning with Scikit-learn (linear regression) and Statsmodels (ARIMA forecasting), and real-time data integration with Alpha Vantage API to provide an interactive experience for tracking finances, analyzing spending, and suggesting investments.
 
 Project Overview
 
