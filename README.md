@@ -83,7 +83,7 @@ Access the app at http://localhost:8501.
 
 Live Demo
 
-Explore the app live: Budget Tracker Streamlit App.
+Explore the app live: [Budget Tracker Streamlit App.](https://budget-tracker-kyle.streamlit.app/)
 
 Features
 
