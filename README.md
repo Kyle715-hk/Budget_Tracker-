@@ -79,7 +79,7 @@ streamlit run app.py
 
 
 
-Access the app at http://localhost:8501.
+
 
 Live Demo
 
