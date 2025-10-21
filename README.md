@@ -58,7 +58,7 @@ Explore the app live: [Budget Tracker Streamlit App](https://budget-tracker-kyle
 - **sqlite3.ProgrammingError**: This app has encountered an error. The original error message is redacted to prevent data leaks. Full error details have been recorded in the logs (if on Streamlit Cloud, click 'Manage app' in the lower right). Switch to the [Command-Line Menu Version](https://github.com/Kyle715-hk/Budget-Tracker) for a stable alternative.
 - **API Issues**: Ensure your Alpha Vantage API key is valid (free tier is rate-limited).
 
-## Why This Matters for Rev-celerator 2026
+## Why This Matters for financial innovations in a data science role
 This project demonstrates:
 - **Data Science Skills**: ML models (Linear Regression, ARIMA) for investment forecasting.
 - **Data Engineering**: ETL processes and SQL querying.
