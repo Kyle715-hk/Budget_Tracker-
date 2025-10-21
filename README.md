@@ -65,7 +65,7 @@ This project demonstrates:
 - **Deployment**: Streamlit for interactive web apps.
 - **Problem-Solving**: Handling real-world errors like database issues.
 
-As a candidate, I’m eager to apply these skills at Revolut to drive data-driven financial innovations. Contact me at wangtikchan715@gmail.com or [LinkedIn](www.linkedin.com/in/wang-tik-chan) for further discussion.
+As a candidate, I’m eager to apply these skills at Revolut to drive data-driven financial innovations. Contact me at wangtikchan715@gmail.com or [LinkedIn](https://www.linkedin.com/in/wang-tik-chan) for further discussion.
 
 ## License
 MIT License - See the LICENSE file for details.
