@@ -1,6 +1,6 @@
 # Budget Tracker - Streamlit Dashboard & GUI Version
 
-Welcome to the **Budget Tracker**, a robust financial management tool designed to showcase my skills as a candidate for the Rev-celerator Graduate Programme 2026: Data Scientist and Analyst at Revolut. This Streamlit-based GUI version leverages Python, machine learning, and real-time data to provide an interactive experience for tracking finances, analyzing spending, and suggesting investments.
+Welcome to the **Budget Tracker**, a robust financial management tool crafted to highlight my expertise and skills as a candidate for a data science position. This Streamlit-based GUI version leverages Python, machine learning, and real-time data to provide an interactive experience for tracking finances, analyzing spending, and suggesting investments.
 
 ## Project Overview
 Built with **Streamlit**, **Pandas**, **NumPy**, **Scikit-learn**, **Statsmodels**, and the **Alpha Vantage API**, this application offers:
@@ -38,7 +38,7 @@ This project highlights my expertise in data science, including data preprocessi
    ```
    streamlit run app.py
    ```
-4. Access the app at `http://localhost:8501`.
+
 
 ### Live Demo
 Explore the app live: [Budget Tracker Streamlit App](https://budget-tracker-kyle.streamlit.app).
